@@ -3,7 +3,7 @@
 - 🌱 I’m always exicited about all things technology and currently learning and honing my programming skills on a range of applications mentioned above
 - 💞️ I’m looking to collaborate on projects which involve helping the beginners to learn code
      and hopefully someday soon in open spurce projects because all I want to do is make this world better for every being using technology
-- 📫 Reach me @ satenderkundu@hotmail.com or https://linkedin.com/in/satenkun
+- 📫 Reach me @ satenderkundu@hotmail.com or https://linkedin.com/in/satenkun :) ✌🏽
 
 <!---
 sat3n/sat3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
