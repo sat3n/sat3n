@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sat3n (call me Satender or Seth, if you don't like invoking the devil inadverdently :D )
-- 👀 I’m interested in pyhton, C++, cloud based DevOps, containers, blockchain and edge computing projects
+- 👀 I’m interested in pyhton, C++, cloud DevOps, containers, blockchain and edge computing projects and I'm also dabbeling in embedded system development
 - 🌱 I’m always exicited about all things technology and currently learning and honing my programming skills on a range of applications mentioned above
 - 💞️ I’m looking to collaborate on projects which involve helping the beginners to learn code
      and hopefully someday soon in open spurce projects because all I want to do is make this world better for every being using technology
