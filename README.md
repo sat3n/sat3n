@@ -11,7 +11,7 @@ Open to collaborating on projects with genuine impact: automation from business 
 Based in the Netherlands. 
 
 If you have something interesting, give me a shout: virtual coffee or in person works :) ✌🏽
-- 📫 Find me here: satenderkundu.com · satender.kundu@outlook.com · linkedin.com/in/satenkun 
+- 📫 Find me here: www.satenderkundu.com · satender.kundu@outlook.com · www.linkedin.com/in/satenkun 
 
 <!---
 sat3n/sat3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
