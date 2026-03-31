@@ -1,4 +1,4 @@
-Hi, I’m @sat3n (call me Satender or Satu)
+Hi, I’m Satender..
 
 Engineer by education and nature, business professional by experience. I've spent years at the intersection of data, business strategy, commercial product, operations and go-to-market, which basically means I have seen how things actually work from both sides and whether they move the needle.
 
