@@ -14,7 +14,7 @@ Open to collaborating on projects with genuine impact & social good. If it ships
 
 Coffee & climbing aficionado. Always up for a flat white.
 
-Fron India, based in the Netherlands.
+From India, based in the Netherlands.
 
 📫 Find me here: www.satenderkundu.com · www.linkedin.com/in/satenkun 
 
