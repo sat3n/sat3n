@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sat3n (call me Satender or Satu)
+Hi, I’m @sat3n (call me Satender or Satu)
 
 Engineer by education and nature, business professional by experience. I've spent years at the intersection of data, business strategy, commercial product, operations and go-to-market, which basically means I have seen how the things actually work from both side and whether they moves the needle.
 
@@ -17,7 +17,7 @@ Coffee & climbing aficionado. Always up for a flat white.
 
 Fron India, based in the Netherlands.
 
-- 📫 Find me here: www.satenderkundu.com · www.linkedin.com/in/satenkun 
+📫 Find me here: www.satenderkundu.com · www.linkedin.com/in/satenkun 
 
 <!---
 sat3n/sat3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
