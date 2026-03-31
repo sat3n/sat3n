@@ -1,17 +1,23 @@
 - 👋 Hi, I’m @sat3n (call me Satender or Satu)
 
-Engineer by training, business professional by experience. I've spent years at the intersection of data, business commercial, and go-to-market in a major EU telco, which basically means I care about whether the things actually work and whether they moves the needle.
+Engineer by education and nature, business professional by experience. I've spent years at the intersection of data, business strategy, commercial product, operations and go-to-market, which basically means I have seen how the things actually work from both side and whether they moves the needle.
 
-Currently deep in the GenAI/LLM stack: building agentic workflows, mainly Claude API integrations, and edge AI applications. Not just prompting; actually wiring things together. AWS Solutions Architect cert in progress.
+Currently deep in the GenAI/LLM stack: building agentic workflows, mainly Claude API integrations, and edge AI applications. Not just prompting; actually wiring things together. 
 
-Background: Mobile Commercial & Data Engineering at Vodafone Ireland (presales, GTM, propositions, data platforms). MSc in Electronics & Computer Engineering with IoT specialisation from DCU.
-I think the most interesting problems right now are at the boundary between AI capability and real business output: automating the boring stuff, augmenting decisions, and building tools that non-engineers can actually use.
+My long-shot dreams: a personal, independent, self-aware AI agent that truly works for me or let's say, with me, and one day do hyperspace travelling to the galaxies and planets out in the universe.
 
-Open to collaborating on projects with genuine impact: automation from business to engineering, social good. If it ships and it matters, I'm interested.
+Mission: do work that measurably improves the world for everyone.
+
+That also meant releasing AXS — the first open-source framework that scores how well any digital service is built for AI agents (7 dimensions, synthetic-agent tested, Apache 2.0). www.github.com/sat3n/axs-framework
+
+Open to collaborating on projects with genuine impact & social good. If it ships and it matters, I'm interested.
 Based in the Netherlands. 
 
-If you have something interesting, give me a shout: virtual coffee or in person works :) ✌🏽
-- 📫 Find me here: www.satenderkundu.com · satender.kundu@outlook.com · www.linkedin.com/in/satenkun 
+Coffee & climbing aficionado. Always up for a flat white.
+
+Fron India, based in the Netherlands.
+
+- 📫 Find me here: www.satenderkundu.com · www.linkedin.com/in/satenkun 
 
 <!---
 sat3n/sat3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
