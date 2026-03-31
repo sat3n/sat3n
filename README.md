@@ -1,10 +1,10 @@
 Hi, I’m @sat3n (call me Satender or Satu)
 
-Engineer by education and nature, business professional by experience. I've spent years at the intersection of data, business strategy, commercial product, operations and go-to-market, which basically means I have seen how the things actually work from both side and whether they moves the needle.
+Engineer by education and nature, business professional by experience. I've spent years at the intersection of data, business strategy, commercial product, operations and go-to-market, which basically means I have seen how things actually work from both sides and whether they move the needle.
 
-Currently deep in the GenAI/LLM stack: building agentic workflows, mainly Claude API integrations, and edge AI applications. Prompting and wiring things together.
+Currently deep in the GenAI/LLM stack: building agentic workflows, mainly API integrations, and edge AI applications. Prompting and wiring things together.
 
-My long-shot dreams: a personal, independent, self-aware AI agent that truly works for me or let's say, with me, and hyperspace trips to the galaxies and planets out in the universe.
+My long-shot dreams: a personal, independent, self-aware AI agent that truly works for me or let's say, with me(quiet close to reality), and hyperspace trips to the galaxies and planets out in the universe.
 
 I like doing work and making things that measurably improves the world for everyone.
 
