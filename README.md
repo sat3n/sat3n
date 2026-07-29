@@ -1,22 +1,12 @@
-Hi, I’m Satender..
-
-Engineer by education and nature, business professional by experience. I've spent years at the intersection of data, business strategy, commercial product, operations and go-to-market, which basically means I have seen how things actually work from both sides and whether they move the needle.
-
-Currently deep in the GenAI/LLM stack: building agentic workflows, mainly API integrations, and edge AI applications. Prompting and wiring things together.
-
-My long-shot dreams: a personal, independent, self-aware AI agent that truly works for me or let's say, with me(quiet close to reality), and hyperspace trips to the galaxies and planets out in the universe.
-
-I like doing work and making things that measurably improves the world for everyone.
-
-Recently, that also meant releasing AXS — the first open-source framework that scores how well any digital service is built for AI agents (7 dimensions, synthetic-agent tested, Apache 2.0). www.github.com/sat3n/axs-framework
-
-Open to collaborating on projects with genuine impact & social good. If it ships and it matters, I'm interested.
-
-Coffee & climbing aficionado. Always up for a flat white.
-
-From India, based in the Netherlands.
-
-📫 Find me here: www.satenderkundu.com · www.linkedin.com/in/satenkun 
+Satender.
+Engineer by training. Spent years between data, product, and commercial work - the messy middle where things either move or they don’t.
+Currently building platform to add my bit to overall good, agentic systems, API integrations, and edge AI stuff.
+Released AXS: open-source framework that scores how well digital services are built for AI agents.
+github.com/sat3n/axs-framework
+Open to projects that actually ship and matter.
+Coffee. Climbing. Books.
+India - Netherlands.
+satenderkundu.com · linkedin.com/in/satenkun
 
 <!---
 sat3n/sat3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
